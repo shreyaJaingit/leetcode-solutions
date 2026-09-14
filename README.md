@@ -16,4 +16,12 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
