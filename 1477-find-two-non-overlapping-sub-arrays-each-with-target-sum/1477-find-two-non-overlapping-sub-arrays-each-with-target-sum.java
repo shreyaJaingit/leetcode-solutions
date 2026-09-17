@@ -26,10 +26,6 @@ class Solution {
         }
         best[right] = minLen;
         }
-    if (ans == Integer.MAX_VALUE) {
-        return -1;
-    } else {
-        return ans;
-    }
+   return ans == Integer.MAX_VALUE ? -1 : ans;
 }
 }
