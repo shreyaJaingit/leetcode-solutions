@@ -16,6 +16,7 @@ My LeetCode solutions and DSA practice in Java
 | ------- |
 | [0001-two-sum](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0001-two-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,4 +59,16 @@ My LeetCode solutions and DSA practice in Java
 | [1148-article-views-i](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## String
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Greedy
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Sorting
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
