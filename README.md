@@ -7,6 +7,7 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0643-maximum-average-subarray-i](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -15,6 +16,7 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Dynamic Programming
@@ -62,6 +64,7 @@ My LeetCode solutions and DSA practice in Java
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Greedy
 |  |
@@ -70,5 +73,6 @@ My LeetCode solutions and DSA practice in Java
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
