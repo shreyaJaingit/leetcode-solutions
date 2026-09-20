@@ -9,6 +9,7 @@ My LeetCode solutions and DSA practice in Java
 | [0001-two-sum](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0349-intersection-of-two-arrays](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -17,6 +18,7 @@ My LeetCode solutions and DSA practice in Java
 | ------- |
 | [0001-two-sum](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0349-intersection-of-two-arrays](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -55,6 +57,7 @@ My LeetCode solutions and DSA practice in Java
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Database
 |  |
@@ -83,6 +86,7 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0349-intersection-of-two-arrays](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Simulation
@@ -92,6 +96,7 @@ My LeetCode solutions and DSA practice in Java
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
