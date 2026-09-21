@@ -10,6 +10,7 @@ My LeetCode solutions and DSA practice in Java
 | [0049-group-anagrams](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0518-coin-change-ii](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -27,6 +28,7 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0518-coin-change-ii](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Math
@@ -105,4 +107,12 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0389-find-the-difference) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
