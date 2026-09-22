@@ -16,6 +16,7 @@ My LeetCode solutions and DSA practice in Java
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3524-find-x-value-of-array-i](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ My LeetCode solutions and DSA practice in Java
 | [1401-circle-and-rectangle-overlapping](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -120,4 +122,8 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0518-coin-change-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
