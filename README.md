@@ -95,6 +95,7 @@ My LeetCode solutions and DSA practice in Java
 | [0049-group-anagrams](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -138,4 +139,12 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
