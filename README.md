@@ -38,6 +38,7 @@ My LeetCode solutions and DSA practice in Java
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -97,6 +98,7 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -159,6 +161,7 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -186,4 +189,8 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0322-coin-change) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
