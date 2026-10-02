@@ -10,6 +10,7 @@ My LeetCode solutions and DSA practice in Java
 | [0049-group-anagrams](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0518-coin-change-ii](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -38,6 +39,7 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -136,10 +138,12 @@ My LeetCode solutions and DSA practice in Java
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## Segment Tree
 |  |
@@ -178,4 +182,8 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
