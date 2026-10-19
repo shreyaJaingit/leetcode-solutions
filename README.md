@@ -93,6 +93,7 @@ My LeetCode solutions and DSA practice in Java
 | [0595-big-countries](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1148-article-views-i) |
+| [1193-monthly-transactions-i](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1193-monthly-transactions-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/shreyaJaingit/leetcode-solutions/tree/master/1661-average-time-of-process-per-machine) |
